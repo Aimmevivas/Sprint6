@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo la automatización de pruebas para diversas fu
 
 Pasos a seguir para instalar Pytest
 
-1. Decsargar Pycharm desde su página web oficial
+1. Descargar Pycharm desde su página web oficial
 2. Una vez instalado, creamos un nuevo proyecto
 3. Al crear el proyecto, nos situamos en "Pyhton package" y buscamos "Pytest" e instalamos la última versión
 4. En el mismo menú "Python package" debemos instalar "pip" y "request" en sus versiones más nuevas
